@@ -1,10 +1,11 @@
-![](Photos/IMG-20230108-WA0004.jpg)
-Dr. Mason W. Kulbaba
-Assistant Professor
-Herbarium Curator (STMU)
+![](Photos/Kulbaba_Photo.jpg)
 
-St. Mary's University 
-Calgary, Alberta
+# Dr. Mason W. Kulbaba
+# Assistant Professor
+# Herbarium Curator (STMU)
+
+# St. Mary's University
+# Calgary, Alberta
 
 
 ## Education
