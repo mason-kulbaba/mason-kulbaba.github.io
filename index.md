@@ -13,7 +13,7 @@ Herbarium (STMU) Curator <br>
           T2X 1Z4 <br>
 
 ## Education and Experience
-2023 - present       Assistant Professor & Herbarium Curator. Biology, St. Mary's University, Calgary AB, Canada. <br>
+2023 - *present*     Assistant Professor & Herbarium Curator. Biology, St. Mary's University, Calgary AB, Canada. <br>
 2020 - 2023          Assistant Professor & Herbarium Curator. Biology, Our Lady of the Lake University, San Antionio, TX, USA. <br>
 2018 - 2019          Postdoc. Dept. Biologial Sciences. University of Calgary <br>
           Supervisor: [Dr. Lawrence D. Harder](https://profiles.ucalgary.ca/lawrence-harder) <br>
