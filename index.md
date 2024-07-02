@@ -14,6 +14,7 @@ Herbarium (STMU) Curator <br>
 ## Links
 [Photos](photos.md) <br>
 [Current Students](current_students.md) <br>
+[Research Interests](research.md)
 
 ## Education and Experience
 2023 - *present*     Assistant Professor & Herbarium Curator. Biology, St. Mary's University, Calgary AB, Canada. <br>
@@ -28,8 +29,6 @@ Herbarium (STMU) Curator <br>
           Advisor: [Dr. Anne C. Worley](https://sci.umanitoba.ca/biological-sciences/profiles/anneworley/) <br>
 2002 – 2007	B.Sc. Dept. Biological Sciences. University of Winnipeg <br>
           Honours Advisor: [Dr. Richard J. Staniforth](https://www.naturemanitoba.ca/news-articles/tribute-richard-staniforth-1946-2022)
-
-## Research Interests
 
 ## Current Teaching
 ### Fall 2024 
