@@ -26,6 +26,10 @@ Herbarium (STMU) Curator <br>
 
 ## Current Teaching
 
+### Fall 2024 
+
+* 
+
 ## Publications
 ### In Review
 Redick, R., ***Kulbaba, M. W.***, and S. Vamosi. Microsatellite markers support two distinct introductions of Scotch Broom (*Cytisus scoparius*) to Vancouver Island <br>
