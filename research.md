@@ -7,4 +7,10 @@ filename: research.md
 
 ## Current Research 
 
+### Capacity for Adaptation
+
+### Plant Mating Portfolios
+
+### Systematic patterns of subindividual trait variation
+
 [Home](index.md)
