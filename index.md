@@ -1,4 +1,4 @@
-![](Photos/IMG-20230108-WA0004.jpg)
+![](Photos/Kulbaba_Photo.jpg)
 
 # Dr. Mason W. Kulbaba
 # Assistant Professor
