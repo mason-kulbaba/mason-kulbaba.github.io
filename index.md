@@ -39,23 +39,31 @@ Redick, R., ***Kulbaba, M. W.***, and S. Vamosi. Microsatellite markers support 
 
 Harder, L.D., Strelin, M.M, Clocher, I.C, ***Kulbaba, M.W.*** and M. A. Aizen. 2019. The dynamic mosaic phenotypes of flowering plants. New Phytologist 224: 1021-1034. *Special issue: The ecology, evolution, and genetics of plant reproductive systems. [PDF](Pubs/Harder et al 2019 dynamic mosaic.pdf) <br>
 
+**2018**
 Sheth, S. N., ***Kulbaba, M. W.***, Pain, R. E., and R. G. Shaw 2018. Expression of additive genetic variance for fitness in a population of partridge pea grown in two field sites. Evolution 72: 2537-2545. [PDF](Pubs/Sheth et al 2018 GxE.pdf) <br>
 
 Tomaszewski, C., Kulbaba, M. W. and L. D. Harder. 2018. Mating consequences of contrasting hermaphroditic plant sexual systems. Evolution 70 (10): 2114-2128. [PDF](Pubs/Tomaszewski et al 2018  Anticlea.pdf) <br>
 
+**2017**
 ***Kulbaba, M. W.***, Clocher, I. C., and L. D. Harder. 2017. Inflorescence characteristics as function-valued traits: analysis of heritability and selection on architectural effects. Journal of Systematics and Evolution 55 (6) 559 – 565. *Invited for special issue on inflorescence displays. [PDF](Pubs/Kulbaba et al. 2017 fvt.pdf). <br>
 
+**2014**
 ***Kulbaba, M. W.*** and A. C. Worley. 2014 Patterns of pollen removal and deposition in Polemonium brandegeei (Polemoniaceae): the role of pollinators, floral design and sexual interference. Plant Biology 16: 1087-1095. [PDF](Pubs/Kulbaba and Worley 2014 - Patterns of pollen.pdf). <br>
 
+**2013**
 ***Kulbaba, M. W.*** and A. C. Worley. 2013. Selection on Polemonium brandegeei (Polemoniaceae) flowers under hummingbird pollination: opposing, parallel or independent of selection by hawkmoths? Evolution 67: 2194-2206. [PDF](Kulbaba and Worley 2013 hummingbird pollination.pdf). <br>
 
-Kulbaba, M. W. and A. C. Worley. 2012. Selection on floral design in Polemonium brandegeei (Polemoniaceae): female and male fitness under hawkmoth pollination. Evolution 66: 1344-1359. [PDF](Pubs/Kulbaba and Worley  2012 hawkmoth pollination.pdf). <br>
+**2012**
+***Kulbaba, M. W.*** and A. C. Worley. 2012. Selection on floral design in Polemonium brandegeei (Polemoniaceae): female and male fitness under hawkmoth pollination. Evolution 66: 1344-1359. [PDF](Pubs/Kulbaba and Worley  2012 hawkmoth pollination.pdf). <br>
 
-Kulbaba, M. W. and A. C. Worley. 2011. Polymorphic microsatellite loci in Polemonium brandegeei and P. viscosum. American Journal of Botany 98: e4-e6. [PDF](Pubs/Kulbaba and Worley 2011 microsats). <br>
+**2011**
+***Kulbaba, M. W.*** and A. C. Worley. 2011. Polymorphic microsatellite loci in Polemonium brandegeei and P. viscosum. American Journal of Botany 98: e4-e6. [PDF](Pubs/Kulbaba and Worley 2011 microsats). <br>
 
-Kulbaba, M. W., Tardif, J. and R. J. Staniforth. 2009. Morphological and ecological relationships between burrs and furs. American Midland Naturalist 161: 380-391. [PDF](Pubs/Kulbaba et al 2009 epizoochory.pdf). <br>
+**2009**
+***Kulbaba, M. W.***, Tardif, J. and R. J. Staniforth. 2009. Morphological and ecological relationships between burrs and furs. American Midland Naturalist 161: 380-391. [PDF](Pubs/Kulbaba et al 2009 epizoochory.pdf). <br>
 
-Kulbaba, M. W. and A. C. Worley. 2008. Floral design in Polemonium brandegeei (Polemoniaceae): genetic and phenotypic variation under hawkmoth and hummingbird pollination. International Journal of Plant Sciences 169: 509-522.[PDF](Pubs/Kulbaba and Worley  2008  floral design). <br>
+**2008**
+***Kulbaba, M. W.*** and A. C. Worley. 2008. Floral design in Polemonium brandegeei (Polemoniaceae): genetic and phenotypic variation under hawkmoth and hummingbird pollination. International Journal of Plant Sciences 169: 509-522.[PDF](Pubs/Kulbaba and Worley  2008  floral design). <br>
 
 ## Current Projects
 
