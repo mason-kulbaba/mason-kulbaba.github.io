@@ -84,3 +84,4 @@ Tomaszewski, C., ***Kulbaba, M. W.*** and L. D. Harder. 2018. Mating consequence
 **2008** <br>
 ***Kulbaba, M. W.*** and A. C. Worley. 2008. Floral design in Polemonium brandegeei (Polemoniaceae): genetic and phenotypic variation under hawkmoth and hummingbird pollination. International Journal of Plant Sciences 169: 509-522.[PDF](Pubs/Kulbaba and Worley  2008  floral design). <br>
 
+google-site-verification: google79e1275e15a6b693.html
