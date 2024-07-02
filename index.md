@@ -14,7 +14,7 @@ Herbarium (STMU) Curator <br>
 ## Links
 [Photos](photos.md) <br>
 [Current Students](current_students.md) <br>
-[Research Interests](research.md)
+[Research Interests](research.md) <br>
 
 ## Education and Experience
 2023 - *present*     Assistant Professor & Herbarium Curator. Biology, St. Mary's University, Calgary AB, Canada. <br>
