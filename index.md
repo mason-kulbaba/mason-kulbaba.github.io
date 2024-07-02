@@ -12,7 +12,7 @@ Herbarium (STMU) Curator <br>
           Calgary, Alberta <br>
           T2X 1Z4 <br>
 
-## Education
+## Education and Experience
 2016 – 2018          Postdoc. Dept. Ecology, Evolution, and Behavior. University of Minnesota <br>
           Supervisor [Dr. Ruth G. Shaw](https://ruthgshaw.wordpress.com/news-archive/people/) <br>
 2013 – 2016	Postdoc. Dept. Biological Sciences. University of Calgary <br>
@@ -21,6 +21,10 @@ Herbarium (STMU) Curator <br>
           Advisor: [Dr. Anne C. Worley](https://sci.umanitoba.ca/biological-sciences/profiles/anneworley/) <br>
 2002 – 2007	B.Sc. Dept. Biological Sciences. University of Winnipeg <br>
           Honours Advisor: [Dr. Richard J. Staniforth](https://www.naturemanitoba.ca/news-articles/tribute-richard-staniforth-1946-2022)
+
+## Research Interests
+
+## Current Teaching
 
 ## Publications
 ### In Review
@@ -42,7 +46,7 @@ Harder, L.D., Strelin, M.M, Clocher, I.C, ***Kulbaba, M.W.*** and M. A. Aizen. 2
 **2018**
 Sheth, S. N., ***Kulbaba, M. W.***, Pain, R. E., and R. G. Shaw 2018. Expression of additive genetic variance for fitness in a population of partridge pea grown in two field sites. Evolution 72: 2537-2545. [PDF](Pubs/Sheth et al 2018 GxE.pdf) <br>
 
-Tomaszewski, C., Kulbaba, M. W. and L. D. Harder. 2018. Mating consequences of contrasting hermaphroditic plant sexual systems. Evolution 70 (10): 2114-2128. [PDF](Pubs/Tomaszewski et al 2018  Anticlea.pdf) <br>
+Tomaszewski, C., ***Kulbaba, M. W.*** and L. D. Harder. 2018. Mating consequences of contrasting hermaphroditic plant sexual systems. Evolution 70 (10): 2114-2128. [PDF](Pubs/Tomaszewski et al 2018  Anticlea.pdf) <br>
 
 **2017**
 ***Kulbaba, M. W.***, Clocher, I. C., and L. D. Harder. 2017. Inflorescence characteristics as function-valued traits: analysis of heritability and selection on architectural effects. Journal of Systematics and Evolution 55 (6) 559 – 565. *Invited for special issue on inflorescence displays. [PDF](Pubs/Kulbaba et al. 2017 fvt.pdf). <br>
@@ -64,6 +68,4 @@ Tomaszewski, C., Kulbaba, M. W. and L. D. Harder. 2018. Mating consequences of c
 
 **2008**
 ***Kulbaba, M. W.*** and A. C. Worley. 2008. Floral design in Polemonium brandegeei (Polemoniaceae): genetic and phenotypic variation under hawkmoth and hummingbird pollination. International Journal of Plant Sciences 169: 509-522.[PDF](Pubs/Kulbaba and Worley  2008  floral design). <br>
-
-## Current Projects
 
