@@ -13,6 +13,10 @@ Herbarium (STMU) Curator <br>
           T2X 1Z4 <br>
 
 ## Education and Experience
+2023 - present       Assistant Professor & Herbarium Curator. Biology, St. Mary's University, Calgary AB, Canada. 
+2020 - 2023          Assistant Professor & Herbarium Curator. Biology, Our Lady of the Lake University, San Antionio, TX, USA.
+2018 - 2019          Postdoc. Dept. Biologial Sciences. University of Calgary <br>
+          Supervisor: [Dr. Lawrence D. Harder](https://profiles.ucalgary.ca/lawrence-harder) <br>
 2016 – 2018          Postdoc. Dept. Ecology, Evolution, and Behavior. University of Minnesota <br>
           Supervisor [Dr. Ruth G. Shaw](https://ruthgshaw.wordpress.com/news-archive/people/) <br>
 2013 – 2016	Postdoc. Dept. Biological Sciences. University of Calgary <br>
@@ -27,8 +31,13 @@ Herbarium (STMU) Curator <br>
 ## Current Teaching
 
 ### Fall 2024 
+* BIOL 307 - Ecology and Human Affairs <br>
+* BIOL 313 - Introduction to Ecology and Evolution <br>
+* BIOL 451 - Biological Conservation (with student internship) <br>
 
-* 
+### Winter 2025
+* BIOL 315 - Biostatistics (with R-based lab/tutorial) <br>
+* BIOL 417 - Tropical Ecology Field School (travel study course to Belize) <br>
 
 ## Publications
 ### In Review
