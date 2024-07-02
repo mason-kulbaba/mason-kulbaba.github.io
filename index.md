@@ -11,6 +11,8 @@ Herbarium (STMU) Curator <br>
 **Post**: 14500 Bannister Rd. SE <br>
           Calgary, Alberta <br>
           T2X 1Z4 <br>
+## Links
+Photos [Photos](photos.md)
 
 ## Education and Experience
 2023 - *present*     Assistant Professor & Herbarium Curator. Biology, St. Mary's University, Calgary AB, Canada. <br>
