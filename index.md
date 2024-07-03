@@ -40,9 +40,9 @@ Herbarium (STMU) Curator <br>
 * BIOL 315 - Biostatistics (with R-based lab/tutorial) <br>
 * BIOL 417 - Tropical Ecology Field School (travel study course to Belize) <br>
 
-## Publications
+## Publications (* indicates undergraduate student)
 ### *In Review*
-Redick, R., ***Kulbaba, M. W.***, and S. Vamosi. Microsatellite markers support two distinct introductions of Scotch Broom (*Cytisus scoparius*) to Vancouver Island <br>
+*Redick, R., ***Kulbaba, M. W.***, and S. Vamosi. Microsatellite markers support two distinct introductions of Scotch Broom (*Cytisus scoparius*) to Vancouver Island <br>
 
 ***Kulbaba, M. W.*** and L. D. Harder. A SNP-based approach to estimating the mating and relatedness components of plant mating portfolios.
 
@@ -63,7 +63,7 @@ Harder, L.D., Strelin, M.M, Clocher, I.C, ***Kulbaba, M.W.*** and M. A. Aizen. 2
 
 Sheth, S. N., ***Kulbaba, M. W.***, Pain, R. E., and R. G. Shaw 2018. Expression of additive genetic variance for fitness in a population of partridge pea grown in two field sites. Evolution 72: 2537-2545. [PDF](Pubs/Sheth et al 2018 GxE.pdf) <br>
 
-Tomaszewski, C., ***Kulbaba, M. W.*** and L. D. Harder. 2018. Mating consequences of contrasting hermaphroditic plant sexual systems. Evolution 70 (10): 2114-2128. [PDF](Pubs/Tomaszewski et al 2018  Anticlea.pdf) <br>
+*Tomaszewski, C., ***Kulbaba, M. W.*** and L. D. Harder. 2018. Mating consequences of contrasting hermaphroditic plant sexual systems. Evolution 70 (10): 2114-2128. [PDF](Pubs/Tomaszewski et al 2018  Anticlea.pdf) <br>
 
 
 ***Kulbaba, M. W.***, Clocher, I. C., and L. D. Harder. 2017. Inflorescence characteristics as function-valued traits: analysis of heritability and selection on architectural effects. Journal of Systematics and Evolution 55 (6) 559 – 565. *Invited for special issue on inflorescence displays. [PDF](Pubs/Kulbaba et al. 2017 fvt.pdf). <br>
