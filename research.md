@@ -8,7 +8,8 @@ filename: research.md
 ## Current Research 
 
 ### Capacity for Adaptation
-![GC_updated_source_of_change](https://github.com/mason-kulbaba/mason-kulbaba.github.io/assets/48602491/c9a2de4b-e3bf-43d6-b4fe-e61abb0d7011)
+![GC_updated_July3](https://github.com/mason-kulbaba/mason-kulbaba.github.io/assets/48602491/d60a8bcd-a6e3-471c-9f3a-a23a0e90b305)
+
 
 ### Plant Mating Portfolios
 
