@@ -12,7 +12,7 @@ Herbarium (STMU) Curator <br>
           Calgary, Alberta <br>
           T2X 1Z4 <br>
 
-I am an evolutionary ecologist with a particular interest in the evolution of plant reproduction and how plants interact with their environments (both abiotic and biotic). My research applies powerful quantitative tools to fundamental questions of eco-evo dynamics, such as evaluating the capacity for adaptation and evolutionary rescue under contemporary natural selection, and describing the functional role of within-individual floral variation to plant reproduction.
+I am an evolutionary ecologist with a particular interest in flowering plant reproduction and how plants interact with their environments (both abiotic and biotic). My research applies powerful quantitative tools to fundamental questions of eco-evo dynamics, such as evaluating the capacity for adaptation and evolutionary rescue under contemporary natural selection, and describing the functional role of within-individual floral variation to plant reproduction. Please see the Research Interests link below for more details. 
 
 ## Links
 [Photos](photos.md) <br>
