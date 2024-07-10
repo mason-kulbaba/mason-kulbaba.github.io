@@ -7,6 +7,8 @@ filename: index.md
 
 ## Dr. Mason W. Kulbaba <br>
 
+I am an evolutionary ecologist with a particular interest in flowering plant reproduction and how plants interact with their environments (both abiotic and biotic). My research applies powerful quantitative tools to fundamental questions of eco-evo dynamics, such as evaluating the capacity for adaptation and evolutionary rescue under contemporary natural selection, and describing the functional role of within-individual floral variation to plant reproduction. Please see the **Research Interests** link below for more details. 
+
 ## Position
 Assistant Professor <br>
 Herbarium (STMU) Curator <br>
@@ -16,8 +18,6 @@ Herbarium (STMU) Curator <br>
 **Post**: 14500 Bannister Rd. SE <br>
           Calgary, Alberta <br>
           T2X 1Z4 <br>
-
-I am an evolutionary ecologist with a particular interest in flowering plant reproduction and how plants interact with their environments (both abiotic and biotic). My research applies powerful quantitative tools to fundamental questions of eco-evo dynamics, such as evaluating the capacity for adaptation and evolutionary rescue under contemporary natural selection, and describing the functional role of within-individual floral variation to plant reproduction. Please see the **Research Interests** link below for more details. 
 
 ## Links
 [Photos](photos.md) <br>
@@ -92,4 +92,4 @@ Sheth, S. N., ***Kulbaba, M. W.***, Pain, R. E., and R. G. Shaw 2018. Expression
 ***Kulbaba, M. W.***, Tardif, J. and R. J. Staniforth. 2009. Morphological and ecological relationships between burrs and furs. American Midland Naturalist 161: 380-391. [PDF](Pubs/Kulbaba et al 2009 epizoochory.pdf). <br>
 
 
-***Kulbaba, M. W.*** and A. C. Worley. 2008. Floral design in Polemonium brandegeei (Polemoniaceae): genetic and phenotypic variation under hawkmoth and hummingbird pollination. International Journal of Plant Sciences 169: 509-522.[PDF](Pubs/Kulbaba and Worley  2008  floral design). 
+***Kulbaba, M. W.*** and A. C. Worley. 2008. Floral design in Polemonium brandegeei (Polemoniaceae): genetic and phenotypic variation under hawkmoth and hummingbird pollination. International Journal of Plant Sciences 169: 509-522.[PDF](Pubs/Kulbaba and Worley  2008  floral design.pdf). 
