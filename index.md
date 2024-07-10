@@ -1,3 +1,8 @@
+---
+title: Mason Kulbaba
+filename: index.md
+---
+
 ![](Photos/Kulbaba_Photo.jpg)
 
 ## Dr. Mason W. Kulbaba <br>
