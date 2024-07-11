@@ -58,7 +58,7 @@ Herbarium (STMU) Curator <br>
 
 ***Kulbaba, M. W.***, Yoko, Z., and J. Hamilton. 2023. Chasing the fitness optimum: temporal variation in the genetic and environmental expression of life-history traits for a perennial plant. Annals of Botany. 132: 1191–1204. [PDF](Pubs/Kulbaba et al 2023 fitness optimum.pdf) <br>
 
-⚡: Commentary by Dr. Meredith A. Zettlemoyer [PDF](Pubs/Zettlemoyer commentary.pdf) <br>
+⚡: Commentary by Dr. Meredith A. Zettlemoyer [PDF](Pubs/Zettlemoyer commentary.pdf.pdf) <br>
 
 
 ***Kulbaba, M. W.*** and R. G. Shaw. 2021. Lifetime fitness through female and male function: influences of genetically effective population size and density. American Naturalist 197: 434-447. [PDF](Pubs/Kulbaba and Shaw 2021 density Ne.pdf). <br>
