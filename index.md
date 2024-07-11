@@ -66,7 +66,7 @@ Herbarium (STMU) Curator <br>
 
 ***Kulbaba, M. W.***, Sheth, S. N., Paine, R. E., Eckhart, V. M., Shaw. R. G. 2019. Additive genetic variance for lifetime fitness and the capacity for adaptation in an annual plant. Evolution 73: 1558-5646. [PDF](Pubs/Kulbaba et al  2019 capacity for adaptation.pdf). <br>
 
-Harder, L.D., Strelin, M.M, Clocher, I.C, ***Kulbaba, M.W.*** and M. A. Aizen. 2019. The dynamic mosaic phenotypes of flowering plants. New Phytologist 224: 1021-1034. *Special issue: The ecology, evolution, and genetics of plant reproductive systems. [PDF](Pubs/Harder et al 2019 dynamic mosaic.pdf) <br>
+Harder, L.D., Strelin, M.M, Clocher, I.C, ***Kulbaba, M.W.*** and M. A. Aizen. 2019. The dynamic mosaic phenotypes of flowering plants. New Phytologist 224: 1021-1034. *Special issue: The ecology, evolution, and genetics of plant reproductive systems*. [PDF](Pubs/Harder et al 2019 dynamic mosaic.pdf) <br>
 
 
 Sheth, S. N., ***Kulbaba, M. W.***, Pain, R. E., and R. G. Shaw 2018. Expression of additive genetic variance for fitness in a population of partridge pea grown in two field sites. Evolution 72: 2537-2545. [PDF](Pubs/Sheth et al 2018 GxE.pdf) <br>
@@ -74,7 +74,7 @@ Sheth, S. N., ***Kulbaba, M. W.***, Pain, R. E., and R. G. Shaw 2018. Expression
 ⭐Tomaszewski, C., ***Kulbaba, M. W.*** and L. D. Harder. 2018. Mating consequences of contrasting hermaphroditic plant sexual systems. Evolution 70 (10): 2114-2128. [PDF](Pubs/Tomaszewski et al 2018  Anticlea.pdf) <br>
 
 
-***Kulbaba, M. W.***, Clocher, I. C., and L. D. Harder. 2017. Inflorescence characteristics as function-valued traits: analysis of heritability and selection on architectural effects. Journal of Systematics and Evolution 55 (6) 559 – 565. *Invited for special issue on inflorescence displays. [PDF](Pubs/Kulbaba et al. 2017 fvt.pdf). <br>
+***Kulbaba, M. W.***, Clocher, I. C., and L. D. Harder. 2017. Inflorescence characteristics as function-valued traits: analysis of heritability and selection on architectural effects. Journal of Systematics and Evolution 55 (6) 559 – 565. *Invited for special issue on inflorescence displays*. [PDF](Pubs/Kulbaba et al. 2017 fvt.pdf). <br>
 
 
 ***Kulbaba, M. W.*** and A. C. Worley. 2014 Patterns of pollen removal and deposition in Polemonium brandegeei (Polemoniaceae): the role of pollinators, floral design and sexual interference. Plant Biology 16: 1087-1095. [PDF](Pubs/Kulbaba and Worley 2014 - Patterns of pollen.pdf). <br>
