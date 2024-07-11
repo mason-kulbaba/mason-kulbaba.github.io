@@ -25,7 +25,7 @@ The interaction between plants and their environments during reproduction is mad
 See also ongoing work by Oliver Noseworthy under [Current Students](current_students.md) <br>
 
 ### Relevant publications
-Harder, L.D., Strelin, M.M, Clocher, I.C, ***Kulbaba, M.W.*** and M. A. Aizen. 2019. The dynamic mosaic phenotypes of flowering plants. New Phytologist 224: 1021-1034. *Special issue: The ecology, evolution, and genetics of plant reproductive systems. [PDF](Pubs/Harder et al 2019 dynamic mosaic.pdf) <br>
+Harder, L.D., Strelin, M.M, Clocher, I.C, ***Kulbaba, M.W.*** and M. A. Aizen. 2019. The dynamic mosaic phenotypes of flowering plants. New Phytologist 224: 1021-1034. *Special issue: The ecology, evolution, and genetics of plant reproductive systems*. [PDF](Pubs/Harder et al 2019 dynamic mosaic.pdf) <br>
 
 ***Kulbaba, M. W.***, Clocher, I. C., and L. D. Harder. 2017. Inflorescence characteristics as function-valued traits: analysis of heritability and selection on architectural effects. Journal of Systematics and Evolution 55 (6) 559 – 565. *Invited for special issue on inflorescence displays*. [PDF](Pubs/Kulbaba et al. 2017 fvt.pdf). <br>
 
