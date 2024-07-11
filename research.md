@@ -22,6 +22,8 @@ Most studies of adaptation employ a retrospective approach to describe fitness i
 ### Systematic patterns of subindividual trait variation
 The interaction between plants and their environments during reproduction is made more complex by the production of similar but not identical flowers within a single floral display. The production of multiple flowers within a single display allows for trait variation among flowers, often in predictable patterns (e.g., decrease in flower size from lower to upper positions). The extent to which these patterns functionally contribute to fitness and differ among individuals is unknown. Through genetic-marker based estimates of quantitative genetic parameters, and function-valued trait analyses, my work provided the first progress in assessing the heritability, evolvability, and selection that maintains systematic patterns of subindividual variation. My findings determined that patterns of within-individual variation have a genetic basis and exhibit substantial estimates of evolvability. Therefore, these patterns may respond rapidly to selection. Finally, both the direction and magnitude of selection changes across flowering times, further highlighting the complexity of the interaction between dynamic plant phenotypes and the environment.
 
+See also ongoing work by Oliver Noseworthy under [Current Students](current_students.md) <br>
+
 ### Relevant publications
 Harder, L.D., Strelin, M.M, Clocher, I.C, ***Kulbaba, M.W.*** and M. A. Aizen. 2019. The dynamic mosaic phenotypes of flowering plants. New Phytologist 224: 1021-1034. *Special issue: The ecology, evolution, and genetics of plant reproductive systems. [PDF](Pubs/Harder et al 2019 dynamic mosaic.pdf) <br>
 
