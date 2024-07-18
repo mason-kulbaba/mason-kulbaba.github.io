@@ -12,12 +12,13 @@ filename: current_students.md
 2. Megan Fraser
 
 3. Marisa Kenna
-   <img align="left" src="Photos/marisa.jpeg">
-my name is marisa kenna and i am a part of the undergraduate biology program at stmu. my research interests focus primarily on plants and ecology. i enjoy being in nature and as primary producers are the baseline for the worlds ecosystem, i find them quite fascinating. to better understand plants, how they adapt and function in certain environments, is to better understand nature as a whole.
+4. <img align="left" src="Photos/marisa.jpeg">
 
-4. Cassidy Moline
+My name is Marisa Kenna and I am part of the undergraduate biology program at stmu, completing my senior capstone project. My research interests focus primarily on plant ecology. I enjoy being in nature as much as possible to see plants in their natural habitat. My research employs aster models to compare variation in life-history traits in paintbrush (_Castillja incarnata_) off the coast of Vancouver Island and in Southern Alberta. 
 
-5. Oliver Noseworthy 
+5. Cassidy Moline
+
+6. Oliver Noseworthy 
 
 
 
