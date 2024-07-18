@@ -12,7 +12,7 @@ filename: current_students.md
 2. Megan Fraser
 
 3. Marisa Kenna
-   <img align="left" src="Photos/marisa.jpg">
+   <img align="left" src="Photos/marisa.jpeg">
 my name is marisa kenna and i am a part of the undergraduate biology program at stmu. my research interests focus primarily on plants and ecology. i enjoy being in nature and as primary producers are the baseline for the worlds ecosystem, i find them quite fascinating. to better understand plants, how they adapt and function in certain environments, is to better understand nature as a whole.
 
 4. Cassidy Moline
