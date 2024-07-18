@@ -16,9 +16,9 @@ filename: current_students.md
 
 My name is Marisa Kenna and I am part of the undergraduate biology program at stmu, currently completing my senior capstone project. My research interests focus primarily on plant ecology. I enjoy being in nature as much as possible to see plants in their natural habitat to better understand their ecology. My research employs aster models to compare variation in life-history traits in paintbrush (_Castillja incarnata_) off the coast of Vancouver Island and in Southern Alberta. My goal is to quantify the differences is various traits (e.g., flower size/number, flowering duration, etc.) between two very different environments to describe the fitness consequences of region-specific life-history characteristics. 
 
-# 5. Cassidy Moline
+# 4. Cassidy Moline
 
-# 6. Oliver Noseworthy 
+# 5. Oliver Noseworthy 
 
 
 
