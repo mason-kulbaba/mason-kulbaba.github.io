@@ -7,6 +7,7 @@ filename: current_students.md
 # 1. Leah Earle
 <img align="left" src="Photos/Leah.jpg">
 My name is Leah Earle and I’m currently enrolled in the undergraduate biology “honors” program at stmu. This year I am completing my honors research project. I have a wide span of research interests including things such as animal and plant ecology, evolution, biological conservation and microbiology. I enjoy being outside and being able to view all the organisms the world has to offer. As well, I love learning new things and being able to share my knowledge with others. Currently, my research is comparing Hymenopteran diversity across different regions of development in rapidly expanding Calgary.
+
 # 2. Megan Fraser
 
 # 3. Marisa Kenna
