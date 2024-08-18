@@ -4,11 +4,9 @@ filename: current_students.md
 ---
 # Current Student Projects
 
-![b3995a95-46f8-40ea-a2bd-efe5735fc8cd](https://github.com/mason-kulbaba/mason-kulbaba.github.io/assets/48602491/47ebebc2-a5b2-4036-84c9-52ec34d701bf)
-
-
 # 1. Leah Earle
-
+<img align="left" src="Photos/Leah.jpeg">
+My name is Leah Earle and I’m currently enrolled in the undergraduate biology “honors” program at stmu. This year I am completing my honors research project. I have a wide span of research interests including things such as animal and plant ecology, evolution, biological conservation and microbiology. I enjoy being outside and being able to view all the organisms the world has to offer. As well, I love learning new things and being able to share my knowledge with others. Currently, my research is comparing Hymenopteran diversity across different regions of development in rapidly expanding Calgary.
 # 2. Megan Fraser
 
 # 3. Marisa Kenna
