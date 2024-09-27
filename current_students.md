@@ -17,7 +17,7 @@ My name is Marisa Kenna and I am part of the undergraduate biology program at st
 # 4. Cassidy Moline
 
 # 5. Oliver Noseworthy 
-<img align="left" src="Photos/Oliver.jpeg">
+![Oliver](https://github.com/user-attachments/assets/c8dfd1a9-42f9-482c-b6a3-72ff965fc010)
 My name is Oliver, and I chose to research the individual flowering schedules and within individual variation gradients of B. Rapa. I decided to do this because I've always been intrigued as to how plants work, and the mechanisms behind their success. After a conversation I had with Dr. Kulbaba, regarding his previous work I discovered that there was much more to plants flowering and functions than I had realized beforehand. This realization, and want to answer the questions that arise fueled my motivation to pursue the capstone project at St. Mary's University. I love learning new things, and so working on this project was an amazing way to do so. 
 
 
