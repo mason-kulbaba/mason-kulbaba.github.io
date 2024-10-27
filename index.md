@@ -3,7 +3,7 @@ title: Mason Kulbaba
 filename: index.md
 ---
 
-<img align="left" src="Photos/Kulbaba_Photo.jpg" width="500" height="625" >
+<img align="left" src="Photos/Kulbaba_Photo.jpg" width="400" height="625" >
 
 ## Dr. Mason W. Kulbaba <br>
 
