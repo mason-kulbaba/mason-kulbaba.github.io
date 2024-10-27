@@ -20,6 +20,6 @@ My name is Cassidy, and I am in my final year of a biology degree at St. Mary’
 <img align="center" src="Photos/Oliver.jpeg" width="300" height="300" >
 My name is Oliver, and I chose to research the individual flowering schedules and within individual variation gradients of _Brassica rapa_. I decided to do this because I've always been intrigued as to how plants work, and the mechanisms behind their success. After a conversation I had with Dr. Kulbaba regarding his previous work I discovered that there was much more to plants floral displays and functions than I had realized beforehand. This realization, and want to answer the questions that arise fueled my motivation to pursue the capstone project at St. Mary's University. I love learning new things, and so working on this project was an amazing way to do so. <br>
 
-#5 Megan Fraser <br>
+# 5. Megan Fraser <br>
 <br>
 [Home](index.md)
