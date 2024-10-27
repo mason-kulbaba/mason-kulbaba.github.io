@@ -5,7 +5,9 @@ filename: current_students.md
 # Current Student Projects
 
 # 1. Leah Earle <br>
-<p><img align="center" src="Photos/Leah.jpg" width="300" height="300" ></p>
+
+<img align="center" src="Photos/Leah.jpg" width="300" height="300" >
+  
 My name is Leah Earle and I’m currently enrolled in the undergraduate biology honors program at stmu. This year I am completing my honors research project. I have a wide span of research interests including things such as animal and plant ecology, evolution, biological conservation and microbiology. I enjoy being outside and being able to view all the organisms the world has to offer. As well, I love learning new things and being able to share my knowledge with others. Currently, my research is comparing Hymenopteran diversity across different levels of urban development in rapidly expanding Calgary, AB. Many of the Hymenoptera are important pollinators (e.g., _Bombus_ spp), and therefore important bioindicators of environmental health. My results will estimate the rate of habitat loss and degredation due to urbanization. <br>
 
 # 2. Marisa Kenna <br>
