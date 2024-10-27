@@ -18,7 +18,7 @@ My name is Marisa Kenna and I am part of the undergraduate biology program at st
 
 # 3. Cassidy Moline <br>
 
-<img align="center" src="Photos/cassidy.jpg" width="300" height="300" >
+<img align="center" src="Photos/cassidy.jpg" width="200" height="350" >
 
 My name is Cassidy, and I am in my final year of a biology degree at St. Mary’s University. I am interested in molecular ecology, especially its application to conservation efforts for a wide variety of species! I love both field and lab work and enjoy spending as much time in nature as possible. My capstone project utilizes a molecular ecology approach to quantify the scope and potential spread of an invasive plant species in Fish Creek Provincial Park. <br>
 
