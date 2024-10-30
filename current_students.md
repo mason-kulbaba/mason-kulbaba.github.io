@@ -29,6 +29,10 @@ My name is Cassidy, and I am in my final year of a biology degree at St. Mary’
 My name is Oliver, and I chose to research the individual flowering schedules and within individual variation gradients of _Brassica rapa_. I decided to do this because I've always been intrigued as to how plants work, and the mechanisms behind their success. After a conversation I had with Dr. Kulbaba regarding his previous work I discovered that there was much more to plants floral displays and functions than I had realized beforehand. This realization, and want to answer the questions that arise fueled my motivation to pursue the capstone project at St. Mary's University. I love learning new things, and so working on this project was an amazing way to do so. <br>
 
 # 5. Megan Fraser <br>
+
+<img align="center" src="Photos/Oliver.jpeg" width="300" height="300" >
+
+My name is Megan Fraser, and I am in the final year of my biology undergraduate program at STMU, where I am working on a senior capstone project. My interests center on plant and animal ecology with a strong focus on applications to conservation. Having grown up on a farm and spending most of my time outdoors, I am extremely passionate about environmental remediation and aim to pursue a career in this field upon completing my degree. My current research examines the role of butterflies in enhancing the attractiveness of Rosa spp flowers to their various generalist pollinator species. This research will be accompanied by a comprehensive literature review on floral traits and pollinator attraction to support my findings.
 <br>
 
 [Home](index.md)
