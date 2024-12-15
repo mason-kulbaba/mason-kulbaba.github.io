@@ -54,9 +54,9 @@ Herbarium (STMU) Curator <br>
 
 ## Publications (⭐ indicates undergraduate student)
 ### *In Review*
-⭐Redick, R., ***Kulbaba, M. W.***, and S. Vamosi. Microsatellite markers support two distinct introductions of Scotch Broom (*Cytisus scoparius*) to Vancouver Island <br>
+⭐Redick, R., ***Kulbaba, M. W.***, and S. Vamosi. (*In Review*) Microsatellite markers support two distinct introductions of Scotch Broom (*Cytisus scoparius*) to Vancouver Island <br>
 
-***Kulbaba, M. W.*** and L. D. Harder. (*In Revision*) A SNP-based approach to estimating the mating and relatedness components of plant mating portfolios.
+***Kulbaba, M. W.*** and L. D. Harder. (*Revision Submitted*) A SNP-based approach to estimating the mating and relatedness components of plant mating portfolios.
 
 ### *Published*
 
