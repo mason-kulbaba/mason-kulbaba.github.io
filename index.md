@@ -52,7 +52,7 @@ Herbarium (STMU) Curator <br>
 * BIOL 315 - Biostatistics (with R-based lab/tutorial) <br>
 * BIOL 417 - Tropical Ecology Field School (travel study course to Belize) <br>
 
-## Publications (⭐ indicates undergraduate student)
+## Selected Publications (⭐ indicates undergraduate student)
 ### *In Review*
 ⭐Redick, R., ***Kulbaba, M. W.***, and S. Vamosi. (*In Review*) Microsatellite markers support two distinct introductions of Scotch Broom (*Cytisus scoparius*) to Vancouver Island <br>
 
