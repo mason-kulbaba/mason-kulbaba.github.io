@@ -50,7 +50,6 @@ Herbarium (STMU) Curator <br>
 
 ### Winter 2025
 * BIOL 315 - Biostatistics (with R-based lab/tutorial) <br>
-* BIOL 417 - Tropical Ecology Field School (travel study course to Belize) <br>
 
 ## Selected Publications (⭐ indicates undergraduate student)
 ### *In Review*
