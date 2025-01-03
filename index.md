@@ -55,9 +55,10 @@ Herbarium (STMU) Curator <br>
 ### *In Review*
 ⭐Redick, R., ***Kulbaba, M. W.***, and S. Vamosi. (*In Review*) Microsatellite markers support two distinct introductions of Scotch Broom (*Cytisus scoparius*) to Vancouver Island <br>
 
-***Kulbaba, M. W.*** and L. D. Harder. (*Revision Submitted*) A SNP-based approach to estimating the mating and relatedness components of plant mating portfolios.
 
 ### *Published*
+
+***Kulbaba, M. W.*** and L. D. Harder. (Accepted, _in press_) A SNP-based approach to estimating the mating and relatedness components of plant mating portfolios.
 
 ***Kulbaba, M. W.***, Yoko, Z., and J. Hamilton. 2023. Chasing the fitness optimum: temporal variation in the genetic and environmental expression of life-history traits for a perennial plant. Annals of Botany. 132: 1191–1204. [PDF](Pubs/Kulbaba et al 2023 fitness optimum.pdf) <br>
 
