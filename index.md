@@ -58,7 +58,7 @@ Herbarium (STMU) Curator <br>
 
 ### *Published*
 
-***Kulbaba, M. W.*** and L. D. Harder. (Accepted, _in press_) A SNP-based approach to estimating the mating and relatedness components of plant mating portfolios. Botany XX:XXX-XXX.
+***Kulbaba, M. W.*** and L. D. Harder. (Accepted, _in press_) A SNP-based approach to estimating the mating and relatedness components of plant mating portfolios. Botany XX:XXX-XXX. [Open Access Link](https://cdnsciencepub.com/doi/10.1139/cjb-2024-0120)
 
 ***Kulbaba, M. W.***, Yoko, Z., and J. Hamilton. 2023. Chasing the fitness optimum: temporal variation in the genetic and environmental expression of life-history traits for a perennial plant. Annals of Botany. 132: 1191–1204. [PDF](Pubs/Kulbaba et al 2023 fitness optimum.pdf) <br>
 
