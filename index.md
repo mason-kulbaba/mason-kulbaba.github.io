@@ -23,7 +23,7 @@ Herbarium (STMU) Curator <br>
 
 ## Links
 [Photos](photos.md) <br>
-[Current Students](current_students.md) <br>
+[Students](current_students.md) <br>
 [Research Interests](research.md) <br>
 
 
