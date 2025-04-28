@@ -43,13 +43,13 @@ Herbarium (STMU) Curator <br>
           Honours Advisor: [Dr. Richard J. Staniforth](https://www.naturemanitoba.ca/news-articles/tribute-richard-staniforth-1946-2022)
 
 ## Current Teaching
-### Fall 2024 
-* BIOL 307 - Ecology and Human Affairs <br>
-* BIOL 313 - Introduction to Ecology and Evolution <br>
-* BIOL 451 - Biological Conservation (with student internship) <br>
+### Fall 2025 
+* BIOL 361 - Plant Biology <br>
+* BIOL 431 - Advanced Ecology <br>
 
 ### Winter 2025
 * BIOL 315 - Biostatistics (with R-based lab/tutorial) <br>
+* BIOL 317 - Marine Biology Field Coruse <br>
 
 ## Selected Publications (⭐ indicates undergraduate student)
 ### *In Review*
