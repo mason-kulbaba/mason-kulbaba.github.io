@@ -47,7 +47,7 @@ Herbarium (STMU) Curator <br>
 * BIOL 361 - Plant Biology <br>
 * BIOL 431 - Advanced Ecology <br>
 
-### Winter 2025
+### Winter 2026
 * BIOL 315 - Biostatistics (with R-based lab/tutorial) <br>
 * BIOL 317 - Marine Biology Field Coruse <br>
 
