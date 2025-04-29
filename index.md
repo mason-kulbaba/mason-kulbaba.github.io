@@ -44,8 +44,8 @@ Herbarium (STMU) Curator <br>
 
 ## Current Teaching
 ### Fall 2025 
-* BIOL 361 - Plant Biology <br>
-* BIOL 431 - Advanced Ecology <br>
+* BIOL 361 - Plant Biology (lecture & lab) <br>
+* BIOL 431 - Advanced Ecology (lecture) <br>
 
 ### Winter 2026
 * BIOL 315 - Biostatistics (with R-based lab/tutorial) <br>
