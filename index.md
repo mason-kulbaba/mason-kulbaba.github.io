@@ -55,7 +55,7 @@ Herbarium (STMU) Curator <br>
 ### *In Review*
 ⭐Redick, R., ***Kulbaba, M. W.***, and S. Vamosi. (*In Review*) Microsatellite markers support two distinct introductions of Scotch Broom (*Cytisus scoparius*) to Vancouver Island <br>
 
-Alayna Mead, Joie R. Beasley-Bennett, Andrew Bleich, Dylan Fischer, Shelby Flint, Julie Golightly, Sara K. Klopf, ***Mason W. Kulbaba***, Jesse R. Lasky, Jared M. LeBoldus, David B. Lowry, Nora Mitchell, Emily Moran, Jason P. Sexton, Kelsey L. Søndreli, Baxter Worthing, Michelle Zavala-Paez, Matthew C. Fitzpatrick, Jason Holliday, Stephen Keller, Jill A. Hamilton. ### *Variation in responses to temperature across admixed genotypes of Populus trichocarpa × P. balsamifera predict geographic shifts in regions where hybrids are favored.* [Preprint](https://www.biorxiv.org/content/10.1101/2025.05.16.654548v1.full)
+Alayna Mead, Joie R. Beasley-Bennett, Andrew Bleich, Dylan Fischer, Shelby Flint, Julie Golightly, Sara K. Klopf, ***Mason W. Kulbaba***, Jesse R. Lasky, Jared M. LeBoldus, David B. Lowry, Nora Mitchell, Emily Moran, Jason P. Sexton, Kelsey L. Søndreli, Baxter Worthing, Michelle Zavala-Paez, Matthew C. Fitzpatrick, Jason Holliday, Stephen Keller, Jill A. Hamilton.  *### Variation in responses to temperature across admixed genotypes of Populus trichocarpa × P. balsamifera predict geographic shifts in regions where hybrids are favored.* [Preprint](https://www.biorxiv.org/content/10.1101/2025.05.16.654548v1.full)
 
 ### *Published*
 
