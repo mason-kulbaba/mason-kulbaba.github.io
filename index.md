@@ -16,7 +16,7 @@ Assistant Professor <br>
 Herbarium (STMU) Curator <br>
 
 ## Contact
-**Email**: mason.kulbaba(at)stmu.ca <br>
+**Email**: mason.kulbaba[at]stmu.ca <br>
 **Post**: 14500 Bannister Rd. SE <br>
           Calgary, Alberta <br>
           T2X 1Z4 <br>
