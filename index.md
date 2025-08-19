@@ -53,7 +53,7 @@ Herbarium (STMU) Curator <br>
 
 ## Selected Publications (⭐ indicates undergraduate student)
 ### *In Review*
-⭐Arteaga, G. and M.W. Kulbaba. (*in review*). Subindividual floral variation and the dynamic morphology of _Vicia americana_ (Fabaceae) floral displays
+⭐Arteaga, G. and **M.W. Kulbaba**. (*In Review*). Subindividual floral variation and the dynamic morphology of _Vicia americana_ (Fabaceae) floral displays
 
 ⭐Redick, R., ***Kulbaba, M. W.***, and S. Vamosi. (*In Review*) Microsatellite markers support two distinct introductions of Scotch Broom (*Cytisus scoparius*) to Vancouver Island <br>
 
