@@ -52,7 +52,7 @@ Herbarium (STMU) Curator <br>
 * BIOL 317 - Marine Biology Field Coruse <br>
 
 ## Selected Publications (⭐ indicates undergraduate student)
-### *In Review*
+### *In Review or Revision*
 ⭐Arteaga, G. and **_Kulbaba, M. W_**. (*In Revision*). Subindividual floral variation and the dynamic morphology of _Vicia americana_ (Fabaceae) floral displays
 
 ⭐Redick, R., ***Kulbaba, M. W.***, and S. Vamosi. (*In Review*) Microsatellite markers support two distinct introductions of Scotch Broom (*Cytisus scoparius*) to Vancouver Island <br>
