@@ -62,7 +62,7 @@ Shaw, R. G., C. J. Geyer, ***M. W. Kulbaba***, S. N. Sheth, V. M. Eckhart & R. E
 
 ### *Published*
 
-Alayna Mead, Joie R. Beasley-Bennett, Andrew Bleich, Dylan Fischer, Shelby Flint, Julie Golightly, Sara K. Klopf, ***Mason W. Kulbaba***, Jesse R. Lasky, Jared M. LeBoldus, David B. Lowry, Nora Mitchell, Emily Moran, Jason P. Sexton, Kelsey L. Søndreli, Baxter Worthing, Michelle Zavala-Paez, Matthew C. Fitzpatrick, Jason Holliday, Stephen Keller, Jill A. Hamilton (*Accepted*)  *Variation in responses to temperature across admixed genotypes of Populus trichocarpa × P. balsamifera predict geographic shifts in regions where hybrids are favored.* New Phytologist [Open Access Link](http://doi.org/10.1111/nph.70787)
+Alayna Mead, Joie R. Beasley-Bennett, Andrew Bleich, Dylan Fischer, Shelby Flint, Julie Golightly, Sara K. Klopf, ***Mason W. Kulbaba***, Jesse R. Lasky, Jared M. LeBoldus, David B. Lowry, Nora Mitchell, Emily Moran, Jason P. Sexton, Kelsey L. Søndreli, Baxter Worthing, Michelle Zavala-Paez, Matthew C. Fitzpatrick, Jason Holliday, Stephen Keller, Jill A. Hamilton (*Accepted*)  *Variation in responses to temperature across admixed genotypes of Populus trichocarpa × P. balsamifera predict geographic shifts in regions where hybrids are favored.* New Phytologist [Open Access Link](https://nph.onlinelibrary.wiley.com/doi/epdf/10.1111/nph.70787)
 
 ***Kulbaba, M. W.*** and L. D. Harder. (2025) A SNP-based approach to estimating the mating and relatedness components of plant mating portfolios. Botany 103: 1-9. [Open Access Link](https://cdnsciencepub.com/doi/10.1139/cjb-2024-0120)
 
