@@ -53,7 +53,7 @@ Herbarium (STMU) Curator <br>
 
 ## Selected Publications (⭐ indicates undergraduate student)
 ### *In Review or Revision*
-Harder, L. D. and Kulbba, M. W. (*In Review*) The richness, frequency and relatedness components of mate diversity and mate portfolios. 
+Harder, L. D. and **Kulbba, M. W.** (*In Review*) The richness, frequency and relatedness components of mate diversity and mate portfolios. 
 
 ⭐Arteaga, G. and **_Kulbaba, M. W_**. (*In Revision*). Subindividual floral variation and the dynamic morphology of _Vicia americana_ (Fabaceae) floral displays
 
