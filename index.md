@@ -59,7 +59,7 @@ Harder, L. D. and **_Kulbba, M. W._** (*In Review*) The richness, frequency and 
 
 ⭐Redick, R., ***Kulbaba, M. W.***, and S. Vamosi. (*In Review*) Microsatellite markers support two distinct introductions of Scotch Broom (*Cytisus scoparius*) to Vancouver Island <br>
 
-Shaw, R. G., C. J. Geyer, ***M. W. Kulbaba***, S. N. Sheth, V. M. Eckhart & R. E. Pain (*In Review*) Realization of ongoing evolutionary adaptation in the field <br>
+Shaw, R. G., C. J. Geyer, ***M. W. Kulbaba***, S. N. Sheth, V. M. Eckhart & R. E. Pain (*Revision in Review*) Realization of ongoing evolutionary adaptation in the field <br>
 
 
 ### *Published*
