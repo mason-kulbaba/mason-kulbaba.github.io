@@ -59,10 +59,10 @@ Harder, L. D. and **_Kulbba, M. W._** (*In Review*) The richness, frequency and 
 
 ⭐Redick, R., ***Kulbaba, M. W.***, and S. Vamosi. (*In Review*) Microsatellite markers support two distinct introductions of Scotch Broom (*Cytisus scoparius*) to Vancouver Island <br>
 
-Shaw, R. G., C. J. Geyer, ***M. W. Kulbaba***, S. N. Sheth, V. M. Eckhart & R. E. Pain (*Revision in Review*) Realization of ongoing evolutionary adaptation in the field <br>
 
 
 ### *Published*
+Shaw, R. G., C. J. Geyer, ***M. W. Kulbaba***, S. N. Sheth, V. M. Eckhart & R. E. Pain (*Accepted, in press*) Realization of ongoing evolutionary adaptation in the field. Evolution Letters. <br>
 
 Alayna Mead, Joie R. Beasley-Bennett, Andrew Bleich, Dylan Fischer, Shelby Flint, Julie Golightly, Sara K. Klopf, ***Mason W. Kulbaba***, Jesse R. Lasky, Jared M. LeBoldus, David B. Lowry, Nora Mitchell, Emily Moran, Jason P. Sexton, Kelsey L. Søndreli, Baxter Worthing, Michelle Zavala-Paez, Matthew C. Fitzpatrick, Jason Holliday, Stephen Keller, Jill A. Hamilton (*Accepted*)  *Variation in responses to temperature across admixed genotypes of Populus trichocarpa × P. balsamifera predict geographic shifts in regions where hybrids are favored.* New Phytologist [Open Access Link](https://nph.onlinelibrary.wiley.com/doi/epdf/10.1111/nph.70787)
 
