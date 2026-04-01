@@ -49,7 +49,7 @@ Herbarium (STMU) Curator <br>
 
 ### Winter 2026
 * BIOL 315 - Biostatistics (with R-based lab/tutorial) <br>
-* BIOL 317 - Marine Biology Field Coruse <br>
+* BIOL 317 - Marine Biology Field School <br>
 
 ## Selected Publications (⭐ indicates undergraduate student)
 ### *In Review or Revision*
