@@ -55,9 +55,9 @@ Herbarium (STMU) Curator <br>
 ### *In Review or Revision*
 Harder, L. D. and **_Kulbaba, M. W._** (*Revision in review*) The richness, frequency and relatedness components of mate diversity and mate portfolios. 
 
-⭐Arteaga, G. and **_Kulbaba, M. W_**. (*Revision In Revision*). Subindividual floral variation and the dynamic morphology of _Vicia americana_ (Fabaceae) floral displays
+⭐Arteaga, G. and **_Kulbaba, M. W_**. (*Revision In Revision*). Within-individual floral variation and the dynamic morphology of _Vicia americana_ (Fabaceae) reproductive phenotypes.
 
-⭐Redick, R., ***Kulbaba, M. W.***, and S. Vamosi. (*Revision in review*) Microsatellite markers support two distinct introductions of Scotch Broom (*Cytisus scoparius*) to Vancouver Island <br>
+⭐Redick, R., ***Kulbaba, M. W.***, and S. Vamosi. (*Revision in review*) Microsatellite markers support two distinct introductions of Scotch Broom (*Cytisus scoparius*) to Vancouver Island. <br>
 
 
 
