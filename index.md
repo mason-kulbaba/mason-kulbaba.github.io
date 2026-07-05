@@ -27,7 +27,8 @@ Assistant Professor <br>
 
 
 ## Education and Experience
-2023 - *present*     Assistant Professor & Herbarium Curator. Biology, St. Mary's University, Calgary AB, Canada. <br>
+2026 - present       Assistant Professor of Plant Evolutionary Ecology, University of Winnipeg, Winnipeg, MB, Canada. <br>
+2023 - 2026          Assistant Professor & Herbarium Curator. Biology, St. Mary's University, Calgary AB, Canada. <br>
 2020 - 2023          Assistant Professor & Herbarium Curator. Biology, Our Lady of the Lake University, San Antonio, TX, USA. <br>
 2018 - 2019          Postdoc. Dept. Biologial Sciences. University of Calgary <br>
           Supervisor: [Dr. Lawrence D. Harder](https://profiles.ucalgary.ca/lawrence-harder) <br>
