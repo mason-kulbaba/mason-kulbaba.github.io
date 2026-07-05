@@ -15,7 +15,7 @@ Department of Biology <br>
 Assistant Professor of Plant Evolutionary Ecology <br>
 
 ## Contact
-**Email**: mason.kulbaba[at]stmu.ca <br>
+**Email**: mason.kulbaba[at]stmu.ca (until July 24, 2026) <br>
 ***new U of Winnipeg email coming soon***
 
 
