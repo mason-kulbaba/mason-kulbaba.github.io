@@ -12,7 +12,7 @@ I am an evolutionary ecologist with a particular interest in flowering plant rep
 ## Position
 University of Winnipeg <br>
 Department of Biology <br>
-Assistant Professor <br>
+Assistant Professor of Plant Evolutionary Ecology <br>
 
 ## Contact
 **Email**: mason.kulbaba[at]stmu.ca <br>
