@@ -42,13 +42,11 @@ Assistant Professor of Plant Evolutionary Ecology <br>
           Honours Advisor: [Dr. Richard J. Staniforth](https://www.naturemanitoba.ca/news-articles/tribute-richard-staniforth-1946-2022)
 
 ## Current Teaching
-### Fall 2025 
-* BIOL 361 - Plant Biology (lecture & lab) <br>
-* BIOL 431 - Advanced Ecology (lecture) <br>
+### Fall 2026 
+* BIOL-2153 - Biology of Vascular Plants (lecture & lab) <br>
 
-### Winter 2026
-* BIOL 315 - Biostatistics (with R-based lab/tutorial) <br>
-* BIOL 317 - Marine Biology Field School <br>
+### Winter 2027
+* BIOL-4331 - Evolutionary Biology (lecture) <br>
 
 ## Selected Publications (⭐ indicates undergraduate student)
 ### *In Review or Revision*
