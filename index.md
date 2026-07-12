@@ -50,7 +50,6 @@ Assistant Professor of Plant Evolutionary Ecology <br>
 
 ## Selected Publications (⭐ indicates undergraduate student)
 ### *In Review or Revision*
-Harder, L. D. and **_Kulbaba, M. W._** (*Revision in review*) The richness, frequency and relatedness components of mate diversity and mate portfolios. 
 
 ⭐Arteaga, G. and **_Kulbaba, M. W_**. (*Revision In Revision*). Within-individual floral variation and the dynamic morphology of _Vicia americana_ (Fabaceae) reproductive phenotypes.
 
@@ -59,6 +58,8 @@ Harder, L. D. and **_Kulbaba, M. W._** (*Revision in review*) The richness, freq
 
 
 ### *Published*
+Harder, L. D. and **_Kulbaba, M. W._** (*Revision in review*) The richness, frequency and relatedness components of mate diversity and mate portfolios. [EARLY VIEW OPEN ACCESS LINK](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.71424?utm_medium=article&utm_source=researchgate.net)
+
 Shaw, R. G., C. J. Geyer, ***M. W. Kulbaba***, S. N. Sheth, V. M. Eckhart & R. E. Pain (2026) Realization of ongoing evolutionary adaptation in the field. Evolution Letters 10: 315-325. [Open Access Link](https://academic.oup.com/evlett/article/10/3/315/8651465) <br>
 
 Alayna Mead, Joie R. Beasley-Bennett, Andrew Bleich, Dylan Fischer, Shelby Flint, Julie Golightly, Sara K. Klopf, ***Mason W. Kulbaba***, Jesse R. Lasky, Jared M. LeBoldus, David B. Lowry, Nora Mitchell, Emily Moran, Jason P. Sexton, Kelsey L. Søndreli, Baxter Worthing, Michelle Zavala-Paez, Matthew C. Fitzpatrick, Jason Holliday, Stephen Keller, Jill A. Hamilton 2026. Variation in responses to temperature across admixed genotypes of Populus trichocarpa × P. balsamifera predict geographic shifts in regions where hybrids are favored. New Phytologist 249: 1509-1526. [Open Access Link](https://nph.onlinelibrary.wiley.com/doi/epdf/10.1111/nph.70787)
