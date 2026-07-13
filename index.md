@@ -10,9 +10,12 @@ filename: index.md
 I am an evolutionary ecologist with a particular interest in flowering plant reproduction and how plants interact with their environments (both abiotic and biotic). My research applies powerful quantitative tools to fundamental questions of eco-evo dynamics, such as evaluating the capacity for adaptation and evolutionary rescue under contemporary natural selection, and describing the functional role of within-individual floral variation to plant reproduction. Please see the **Research Interests** link below for more details. 
 
 ## Position
-University of Winnipeg <br>
-Department of Biology <br>
 Assistant Professor of Plant Evolutionary Ecology <br>
+Department of Biology <br>
+University of Winnipeg <br>
+515 Portage Ave. <br>
+Winnipeg, Manitoba, Canada <br>
+R3B 2E9 <br>
 
 ## Contact
 **Email**: m.kulbaba[at]uwinnipeg.ca
