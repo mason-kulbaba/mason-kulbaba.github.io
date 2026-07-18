@@ -53,7 +53,7 @@ R3B 2E9 <br>
 ## Selected Publications (⭐ indicates undergraduate student)
 ### *In Review or Revision*
 
-⭐Arteaga, G. and **_Kulbaba, M. W_**. (*Revision In Revision*). Within-individual floral variation and the dynamic morphology of _Vicia americana_ (Fabaceae) reproductive phenotypes.
+⭐Arteaga, G. and **_Kulbaba, M. W_**. (*Revision in review*). Within-individual floral variation and the dynamic morphology of _Vicia americana_ (Fabaceae) reproductive phenotypes.
 
 ⭐Redick, R., ***Kulbaba, M. W.***, and S. Vamosi. (*Revision in review*) Microsatellite markers support two distinct introductions of Scotch Broom (*Cytisus scoparius*) to Vancouver Island. <br>
 
