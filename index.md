@@ -25,7 +25,7 @@ R3B 2E9 <br>
 [Photos](photos.md) <br>
 [Students](current_students.md) <br>
 [Research Interests](research.md) <br>
-[GitHub](https://github.com/mason-kulbaba) <br>
+[GitHub Repositories](https://github.com/mason-kulbaba) <br>
 
 
 
