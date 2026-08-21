@@ -61,7 +61,7 @@ R3B 2E9 <br>
 
 
 ### *Published*
-Harder, L. D. and **_Kulbaba, M. W._** (*In Press*) The richness, frequency and relatedness components of mate diversity and mate portfolios. [Open Access Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.71424?utm_medium=article&utm_source=researchgate.net)
+Harder, L. D. and **_Kulbaba, M. W._** (2026) The richness, frequency and relatedness components of mate diversity and mate portfolios. New Phytologist 251: 3703-3713. [Open Access Link](https://nph.onlinelibrary.wiley.com/doi/10.1111/nph.71424?utm_medium=article&utm_source=researchgate.net)
 
 Shaw, R. G., C. J. Geyer, ***M. W. Kulbaba***, S. N. Sheth, V. M. Eckhart & R. E. Pain (2026) Realization of ongoing evolutionary adaptation in the field. Evolution Letters 10: 315-325. [Open Access Link](https://academic.oup.com/evlett/article/10/3/315/8651465) <br>
 
