@@ -20,6 +20,11 @@ R3B 2E9 <br>
 ## Contact
 **Email**: m.kulbaba[at]uwinnipeg.ca
 
+## News
+NSERC funding is available to support graduate and undergraduate students. If interested, please email me: <br>
+          `.` statement of your research interests <br>
+          `.` unofficial transcript <br>
+          `.` CV or resume <br>
 
 ## Links
 [Photos](photos.md) <br>
@@ -27,11 +32,6 @@ R3B 2E9 <br>
 [Research Interests](research.md) <br>
 [GitHub Repositories](https://github.com/mason-kulbaba) <br>
 
-## News
-NSERC funding is available to support graduate and undergraduate students. If interested, please email me: <br>
-          `*` statement of your research interests <br>
-          `*` unofficial transcript <br>
-          `*` CV or resume <br>
 
 ## Education and Experience
 2026 - _present_     Assistant Professor of Plant Evolutionary Ecology, University of Winnipeg, Winnipeg, MB, Canada. <br>
