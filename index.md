@@ -28,10 +28,10 @@ R3B 2E9 <br>
 [GitHub Repositories](https://github.com/mason-kulbaba) <br>
 
 ## News
-NSERC funding is available to support graduate and undergraduate students. If interested, please email me:
-          - statement of your research interests
-          - unofficial transcript
-          - CV or resume 
+NSERC funding is available to support graduate and undergraduate students. If interested, please email me: <br>
+          - statement of your research interests <br>
+          - unofficial transcript <br>
+          - CV or resume <br>
 
 ## Education and Experience
 2026 - _present_     Assistant Professor of Plant Evolutionary Ecology, University of Winnipeg, Winnipeg, MB, Canada. <br>
