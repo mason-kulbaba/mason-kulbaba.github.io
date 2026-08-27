@@ -6,10 +6,9 @@ filename: index.md
 <img align="center" src="Photos/Kulbaba_Photo.jpg" width="400" height=auto >
 
 ## Dr. Mason W. Kulbaba <br>
-
 I am an evolutionary ecologist with a particular interest in flowering plant reproduction and how plants interact with their environments (both abiotic and biotic). My research applies powerful quantitative tools to fundamental questions of eco-evo dynamics, such as evaluating the capacity for adaptation and evolutionary rescue under contemporary natural selection, and describing the functional role of within-individual floral variation to plant reproduction. Please see the **Research Interests** link below for more details. 
 
-## Contact & Position
+## Contact
 Assistant Professor of Plant Evolutionary Ecology <br>
 Department of Biology <br>
 University of Winnipeg <br>
