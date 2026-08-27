@@ -18,7 +18,7 @@ R3B 2E9 <br>
 **Email**: m.kulbaba[at]uwinnipeg.ca
 
 ## News
-NSERC funding is available to support research for graduate and undergraduate students, and I encourage inquiries from potential post-doctoral scholars. If interested, please email me: <br>
+NSERC funding is available to support research for graduate and undergraduate students, and I welcome inquiries from potential post-doctoral scholars. If interested, please email me: <br>
 * statement of your research interests <br>
 * unofficial transcript <br>
 * CV or resume <br>
