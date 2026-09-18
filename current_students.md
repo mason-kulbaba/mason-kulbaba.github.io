@@ -4,7 +4,10 @@ filename: current_students.md
 ---
 # Student Projects
 
-If interested in conducting research with me, please email me with your general research interests. I am always seeking eager students to work with. 
+NSERC funding is available to support research for graduate and undergraduate students, and I welcome inquiries from potential post-doctoral scholars. If interested, please email me: <br>
+* statement of your research interests <br>
+* unofficial transcript <br>
+* CV or resume <br>
 
 # Current Students
 ## 1. Megan Fraser <br>
