@@ -15,7 +15,10 @@ Coming soon
 <br>
 
 # Alumni - St. Mary' University (Calgary, AB)
-<img align="center" src="Photos/Megan.jpg" width="300" height=auto >
+
+## Megan Fraser (2024 - 2026) 
+
+<img align="center" src="Photos/megan.jpg" width="300" height=auto >
 
 My name is Megan Fraser, and I am in the final year of my biology undergraduate program at STMU, where I am working on a senior capstone project. My interests center on plant and animal ecology with a strong focus on applications to conservation. Having grown up on a farm and spending most of my time outdoors, I am extremely passionate about environmental remediation and aim to pursue a career in this field upon completing my degree. My current research examines the role of butterflies in enhancing the attractiveness of Rosa spp flowers to their various generalist pollinator species. This research will be accompanied by a comprehensive literature review on floral traits and pollinator attraction to support my findings. I am continuing my Biology Capstone Research Project from 2024-2025 to follow up on my interesting findings, and prepare a manuscript for publication. <br>
 
