@@ -11,9 +11,6 @@ NSERC funding is available to support research for graduate and undergraduate st
 
 # Current Students
 ## Daegan Kovacs <br>
-
-
-
 Coming soon
 <br>
 
