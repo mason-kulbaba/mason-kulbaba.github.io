@@ -35,7 +35,7 @@ NSERC funding is available to support research for graduate and undergraduate st
 2026 - _present_     Assistant Professor of Plant Evolutionary Ecology, University of Winnipeg, Winnipeg, MB, Canada. <br>
 2023 - 2026          Assistant Professor & Herbarium Curator. Biology, St. Mary's University, Calgary AB, Canada. <br>
 2020 - 2023          Assistant Professor & Herbarium Curator. Biology, Our Lady of the Lake University, San Antonio, TX, USA. <br>
-2018 - 2019          Postdoc. Dept. Biologial Sciences. University of Calgary <br>
+2018 - 2020          Postdoc. Dept. Biologial Sciences. University of Calgary <br>
           Supervisor: [Dr. Lawrence D. Harder](https://profiles.ucalgary.ca/lawrence-harder) <br>
 2016 – 2018          Postdoc. Dept. Ecology, Evolution, and Behavior. University of Minnesota <br>
           Supervisor [Dr. Ruth G. Shaw](https://ruthgshaw.wordpress.com/news-archive/people/) <br>
