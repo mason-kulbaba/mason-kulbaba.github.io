@@ -14,7 +14,7 @@ NSERC funding is available to support research for graduate and undergraduate st
 Coming soon
 <br>
 
-# Alumni - St. Mary' University (Calgary, AB)
+# Alumni - St. Mary's University (Calgary, AB)
 
 ## Megan Fraser (2024 - 2026) 
 
