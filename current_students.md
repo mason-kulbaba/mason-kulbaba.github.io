@@ -9,7 +9,7 @@ NSERC funding is available to support research for graduate and undergraduate st
 * unofficial transcript <br>
 * CV or resume <br>
 
-# Current Students
+# Current Students 2027-2027
 ## Daegan Kovacs <br>
 <img align="center" src="Photos/daegan.jpg" width="300" height=auto >
 
