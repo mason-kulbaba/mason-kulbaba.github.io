@@ -11,7 +11,9 @@ NSERC funding is available to support research for graduate and undergraduate st
 
 # Current Students
 ## Daegan Kovacs <br>
-Coming soon
+<img align="center" src="Photos/daegan.jpg" width="300" height=auto >
+
+My name is Daegan Kovacs, and I am currently completing my Biology Honours Project in my final year of my STMU Biology undergraduate degree. My research interests include ecology and zoology, and my project is focused on comparing the diversity of species, predominantly birds, between natural and artificial wetlands around Calgary, Alberta. I chose the topic because I was curious about how the biodiversity of these different sites around Calgary may differ, and due to my preexisting interest in birds, with the project also giving me the opportunity to spend lots of time in nature over the summer. It was also interesting to observe trends discussed in my Ecology lectures during my surveying, such as the positive correlation between site size and biodiversity. 
 <br>
 
 # Alumni - St. Mary's University (Calgary, AB)
