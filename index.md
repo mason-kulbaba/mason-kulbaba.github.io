@@ -17,8 +17,8 @@ Winnipeg, Manitoba, Canada <br>
 R3B 2E9 <br>
 **Email**: m.kulbaba[at]uwinnipeg.ca
 
-Office: 2RC025
-Lab: 2RC097
+Office: 2RC025 <br>
+Lab: 2RC097 <br>
 
 ## News
 ### July 2026
