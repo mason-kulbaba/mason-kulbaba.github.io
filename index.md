@@ -17,6 +17,9 @@ Winnipeg, Manitoba, Canada <br>
 R3B 2E9 <br>
 **Email**: m.kulbaba[at]uwinnipeg.ca
 
+Office: 2RC025
+Lab: 2RC097
+
 ## News
 ### July 2026
 NSERC funding is available to support research for graduate and undergraduate students, and I welcome inquiries from potential post-doctoral scholars. If interested, please email me: <br>
